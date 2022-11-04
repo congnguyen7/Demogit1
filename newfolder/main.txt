@@ -5,3 +5,5 @@ Them commit C2
 Them commit C3
 
 Them commit C4
+
+Them commit B2
