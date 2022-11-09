@@ -6,3 +6,6 @@ Them commit B2
 
 thuc hien commit F1 tu nhanh featureA1
 hhhhhhhhhiiiiiiiiiiiiiiiii------------
+
+thuc hien commit F2 tu nhanh featureA1
+hhhhhhhhhiiiiiiiiiiiiiiiii-----------2
