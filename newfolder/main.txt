@@ -4,6 +4,7 @@ Them commit C2
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 Them commit C3
 
 Them commit C4
@@ -17,3 +18,8 @@ hi hi hi_ them commit 1
 
 hi hi hi_ them commit 2 
 >>>>>>> ed7519f (Commit 2 branch feature1)
+=======
+hi hi hi_ them commit 1
+
+hi hi hi_ them commit 2 
+>>>>>>> ed7519f3f371786a0f918ae015e514d5613c2bc8
