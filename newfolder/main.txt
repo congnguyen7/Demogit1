@@ -2,8 +2,12 @@ Them commit C1
 
 Them commit C2
 
+<<<<<<< HEAD
 Them commit C3
 
 Them commit C4
 
 Them commit B2
+=======
+hi hi hi_ them commit 1
+>>>>>>> 8c10855 (Commit 1 branch feature1)
