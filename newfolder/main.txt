@@ -9,3 +9,5 @@ hhhhhhhhhiiiiiiiiiiiiiiiii------------
 
 thuc hien commit F2 tu nhanh featureA1
 hhhhhhhhhiiiiiiiiiiiiiiiii-----------2
+
+1
